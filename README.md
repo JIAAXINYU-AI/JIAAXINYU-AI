@@ -3,8 +3,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE5EF,50:FFF4F8,100:F8DCE8&height=220&section=header&text=Jiaxin%20Yu&fontSize=54&fontColor=A85F7D&animation=fadeIn&fontAlignY=38&desc=AI%20Creator%20%7C%20Product%20Explorer%20%7C%20Tech%20Storyteller&descSize=16&descAlignY=60"
     alt="Jiaxin Yu profile banner"
     width="100%"
-  />
-  <h3>把技术讲给小白听，把创意做成真实体验。</h3>
   <p><i>Making emerging technology understandable, useful, and delightful.</i></p>
   <p>
     <img src="https://img.shields.io/badge/AI%20CREATION-F4C7D8?style=flat-square&labelColor=FFF1F6&color=F4C7D8" alt="AI Creation" />
