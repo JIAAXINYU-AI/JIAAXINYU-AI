@@ -14,65 +14,17 @@
   </p>
 </div>
 
-🌷 About Me
+## 🌷 About Me
 
-你好，我是 余家欣（Jiaxin Yu），一名环境设计专业本科生，也是一位持续探索 AI 创作、产品体验与科技内容表达的创作者。
+你好呀，我是 **夹心**，一位脑袋装满点子，正在把灵感变成作品的创作者。
 
-🎓 Education — Environmental Design undergraduate, 2024–2028.
+- 🎓 **Education** — Undergraduate student, 2024–2028.
 
-🎬 Content Experience — 曾在网易数码参与科技内容策划与制作，负责选题、脚本、拍摄、剪辑、出镜及内容复盘，并参与科技品牌项目。
+- 🎬 **Content Experience** — 曾参与科技内容策划与制作，并参与科技品牌项目。
 
-🤖 AI Creation — 探索 AI 音乐、AI 影像、虚拟企划与 AI 短剧创作。
+- ✨ **Personal Belief** — I enjoy connecting technology and design — turning complex ideas into approachable experiences.
 
-🧩 Product Exploration — 关注 AI 产品体验、用户需求、交互设计与产品原型。
-
-✨ Personal Belief — 把复杂技术转化为普通人也能理解、愿意使用的体验。
-
-I enjoy connecting technology, design, and storytelling — turning complex ideas into approachable experiences.
-
-🎀 What I'm Exploring
-
-Direction
-
-Current interests
-
-AI & Creative Technology
-
-AI-assisted music, video, virtual artists, and short-form storytelling
-
-Product & UX
-
-AI product analysis, user needs, interaction flows, and rapid prototyping
-
-Tech Content
-
-Technology communication, content strategy, on-camera storytelling, and growth
-
-Vibe Coding
-
-Building personal websites, interactive demos, and small AI-powered products
-
-💗 Selected Projects
-
-01 · Personal Portfolio Website
-
-An interactive portfolio that brings together technology content, AI creation, product exploration, and design practice.
-In progress · Vibe Coding · Interactive Web
-
-02 · PRODUCT LAB
-
-A product-thinking concept that helps turn an early idea into user needs, a PRD, prototypes, and an iteration roadmap with AI assistance.
-Concept development · AI Product · Product Design
-
-03 · TEMPTRD — AI Music Project
-
-An experimental virtual music project exploring AI-assisted songwriting, vocal concepts, visual identity, and music-video storytelling.
-Ongoing creative project · AI Music · Virtual Artists
-
-04 ·《没有名字的女孩》— AI Short Drama
-
-An original short-drama project about identity, image-making, and self-discovery in the entertainment industry and the AI era.
-Story development & production · AI Video · Visual Storytelling
+- 🤖 **AI Creation** —Let's vibe code together💗。
 
 🧰 Tools & Technologies
 
